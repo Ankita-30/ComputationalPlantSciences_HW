@@ -1,0 +1,9 @@
+The program is calculating the first 100 values in the fibonacci sequence.
+
+The recursion is being implemented in the second last line of the code which is as follows:
+{
+	.....
+	else
+		return(f(n-1)+f(n-2))
+
+}

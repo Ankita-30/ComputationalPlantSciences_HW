@@ -1,0 +1,7 @@
+We make the picture black and white. 
+Then we make it such that only line joining middle points of each block is left. 
+So, we get a number of not joined lines.
+Lines are one and rest is not one. 
+We go through the entire picture and get total no. of ones. 
+Then we get total no. of lines. 
+To know how long each line is or the mean, we part total no. of ones by the number of lines.
